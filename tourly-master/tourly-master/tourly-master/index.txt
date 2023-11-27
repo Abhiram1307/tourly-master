@@ -193,7 +193,7 @@ Feel free to contact and reach us !!
 +91987654321
 
 <ion-icon name="mail-outline"></ion-icon>
-travel@lpu.co.in
+abhiramchandu81@gmail.com
 
 <ion-icon name="location-outline"></ion-icon>
 Jalandar,Punjab

@@ -1,4 +1,5 @@
-# tourly-master
+#Travel Agency
+# tourly
 Overview
 Welcome to TOURLY 
 This web platform is designed to inspire and assist users in planning their dream vacations. 
